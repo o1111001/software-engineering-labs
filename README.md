@@ -1,3 +1,3 @@
 “Software engineering labs”
-reverted
+to revert
 
